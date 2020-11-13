@@ -1,5 +1,6 @@
 # 微處理機實驗 LAB
 增加了 sample code：
+```
 org   0
       mov  sp, #50H
       clr    c
@@ -39,4 +40,4 @@ dd2:
       pop   5
       ret
         end
-
+```
